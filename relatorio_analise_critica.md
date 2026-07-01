@@ -17,9 +17,9 @@
 
   | 👤 Integrante | 🔧 Refatoração | 🔗 Link do PR |
   |--------------|---------------|----------------|
-  | :octocat: <a href="https://github.com/LuizFMoreira">Luiz Fernando Moreira</a> | Extract Method (validação de envio de moedas) | https://github.com/Davii13/PUCPay/pull/1 |
+  | :octocat: <a href="https://github.com/JosueGoulart01">josue Goulart</a> | Extract Method (validação de envio de moedas) | https://github.com/Davii13/PUCPay/pull/1 |
   | :octocat: <a href="https://github.com/LuizFMoreira">Luiz Fernando Moreira</a> | Tratamento de erros centralizado (@RestControllerAdvice) | https://github.com/Davii13/PUCPay/pull/3 |
-  | :octocat: <a href="https://github.com/LuizFMoreira">Luiz Fernando Moreira</a> | Exceções de domínio (BusinessException / status HTTP) | https://github.com/Davii13/PUCPay/pull/2 |
+  | :octocat: <a href="https://github.com/karenjoilly11">Karen Joiilly</a> | Exceções de domínio (BusinessException / status HTTP) | https://github.com/Davii13/PUCPay/pull/2 |
 
 > [!NOTE]
 > Os PRs foram submetidos via **fork** (Opção 1): `LuizFMoreira/PUCPay` → `Davii13/PUCPay:main`. Os donos não precisam aceitar.
